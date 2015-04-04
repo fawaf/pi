@@ -7,7 +7,7 @@
 <meta name="author" content="">
 <link rel="shortcut icon" href="/favicon.ico">
 
-<title>FAWONG</title>
+<title>FAWONG - Musical Pi</title>
 
 <!-- Bootstrap core CSS -->
 <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
