@@ -1,6 +1,9 @@
 <div id="footer">
 <div class="container">
-<p class="text-muted credit">Copyright &copy; <?php print '2007-'.date("Y").'' ?> FAWONG. All Rights Reserved.</p>
+<p class="pull-left text-muted credit">Copyright &copy; <?php print '2007-'.date("Y").'' ?> FAWONG. All Rights Reserved.</p>
+<div class="pull-right text-muted credit">
+<a href="http://validator.w3.org/check?uri=https://pi.fawong.com">Valid HTML 5</a>
+</div>
 </div>
 </div>
 
